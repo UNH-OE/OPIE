@@ -1,0 +1,16 @@
+c:\video\		//pth
+t05			//fname
+cal5			//cal_file
+1			//frame_start
+50			//frame_end
+[]			//cal3d
+30			//frames_per_sec
+41			//alpha
+43			//beta
+[4 0 0]			//userpoint
+[]			//dot1
+[]			//dot2
+[]			//dot3
+[]			//area1
+[]			//area2
+[]			//area3

@@ -1,0 +1,16 @@
+pth=fscanf(fid,'%s');
+fname=fscanf(fid,'%s');
+cal_file=fscanf(fid,'%s');
+frame_start=fscanf(fid,'%d%s');
+frame_end=fscanf(fid,'%d%s');
+cal3d=fscanf(fid,'%f%s');
+frames_per_second=fscanf(fid,'%f%s');
+alpha=fscanf(fid,'%f%s');
+beta=fscanf(fid,'%f%s');
+userpoint=fscanf(fid,'%f%s');
+dot1=fscanf(fid,'%f%s');
+dot2=fscanf(fid,'%f%s');
+dot3=fscanf(fid,'%f%s');
+area1=fscanf(fid,'%d%s');
+area2=fscanf(fid,'%d%s');
+area3=fscanf(fid,'%d%s');
